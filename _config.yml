@@ -1,12 +1,12 @@
 #------------------------------------------------------------------------------
 # General
 #------------------------------------------------------------------------------
-name: "Minimal-Block"
-description: "Minimalistic, friendly, responsive."
+name: "Chillington"
+description: "Will's Data Science Blog"
 language: "en"
 
 url: https://chillington.github.io
-baseurl: ''
+baseurl: /
 
 #------------------------------------------------------------------------------
 # Markdown processor and code highlighting
