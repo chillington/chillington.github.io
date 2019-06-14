@@ -22,7 +22,7 @@ kramdown:
 #------------------------------------------------------------------------------
 # Pagination and friendly URLs
 #------------------------------------------------------------------------------
-paginate: 2
+paginate: 5
 paginate_path: /page-:num
 permalink: /:title
 
@@ -33,7 +33,7 @@ disqus-id: yourusername
 
 enable-share: true
 twitter: yourusername
-github: yourusername
+github: chillington
 google: +yourusername
 
 rss-feed-limit: 10
