@@ -14,6 +14,6 @@ My input variables were highest and lowest grades earned in each of the students
 
 Unfortunately, my model was mostly unsuccessful in identifying the students who “left early” in a test data set from my sample, though it did reasonable well at predicting if they would graduate.  If nothing else, this study provides a possible framework and starting point for future research in this area.
 
-The full report is available here: https://github.com/chillington/DSSA_Practicum/blob/master/Albert_W_data_practicum.pdf
+The full report is available [here:](https://github.com/chillington/DSSA_Practicum/blob/master/Albert_W_data_practicum.pdf)
 
 Data may be available upon request.
