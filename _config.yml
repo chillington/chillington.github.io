@@ -32,9 +32,9 @@ permalink: /:title
 disqus-id: yourusername
 
 enable-share: true
-twitter: yourusername
+twitter: @dezmutt
 github: chillington
-google: +yourusername
+google: walbert53
 
 rss-feed-limit: 10
 rss-show-full: false
