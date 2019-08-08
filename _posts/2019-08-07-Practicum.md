@@ -1,4 +1,4 @@
-DSSA 5302 Data Practicum
+DSSA 5302 Data Practicum:  
 =====
 This is the final project for my Master's degree.  
 
