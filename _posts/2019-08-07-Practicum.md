@@ -13,3 +13,7 @@ I identified students who were invited to attend new student orientation during 
 My input variables were highest and lowest grades earned in each of the students’ first two semesters – fall 2015 and spring 2016 (four variables), as well as total number of courses withdrawn in the first year, and the number of transfer credits, for six variables in all.  My output variables were three binary classifications – whether or not a student: graduated on time in four years, was still continuing at Stockton, or had left the university before completing their degree.
 
 Unfortunately, my model was mostly unsuccessful in identifying the students who “left early” in a test data set from my sample, though it did reasonable well at predicting if they would graduate.  If nothing else, this study provides a possible framework and starting point for future research in this area.
+
+The full report is available here: https://github.com/chillington/DSSA_Practicum/blob/master/Albert_W_data_practicum.pdf
+
+Data may be available upon request.
