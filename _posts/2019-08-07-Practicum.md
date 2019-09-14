@@ -2,7 +2,7 @@ DSSA 5302 Data Practicum:
 =====
 This is the final project for my Master's degree.  
 
-Here is the github repo with code: https://github.com/chillington/DSSA_Practicum
+Here is the github repo with code: [github.com/chillington/DSSA_Practicum](https://github.com/chillington/DSSA_Practicum)
 
 Here is the summary:
 
