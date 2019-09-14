@@ -2,6 +2,8 @@ DSSA 5302 Data Practicum:
 =====
 This is the final project for my Master's degree.  
 
+Here is the github repo with code: https://github.com/chillington/DSSA_Practicum
+
 Here is the summary:
 
 Educators at colleges and universities have a number of reasons to be concerned with student retention and graduation rates.  It is important for public perception of the institution, as well as for the student on an individual level.  With all of the data available to education professional, there should be more technology-assisted tools available to identify students who are at-risk of ending their college careers prematurely.
